@@ -1,9 +1,8 @@
+import { ComponentExample } from "@/components/component-example";
+import AttendanceSlipMaker from "./Pages/AttendanceSlipMaker";
+
 export function App() {
-  return (
-    <div className="flex items-center justify-center min-h-screen">
-      <div className="font-medium">Hello World</div>
-    </div>
-  )
+return <AttendanceSlipMaker />;
 }
 
-export default App
+export default App;
