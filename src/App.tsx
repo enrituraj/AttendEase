@@ -1,4 +1,3 @@
-import { ComponentExample } from "@/components/component-example";
 import AttendanceSlipMaker from "./Pages/AttendanceSlipMaker";
 
 export function App() {
